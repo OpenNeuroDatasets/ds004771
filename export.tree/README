@@ -1,7 +1,0 @@
-EEG data for the Python reading task (acceptability judgments) described in [Kuo, C-H. and Prat, C.S. Programmers show distinct, language-like brain responses to violations in form and meaning when reading code], pending submission to Nature Communications.
-
-This study recruited 62 total subjects. 1 subject did not complete the EEG session and was removed from all analyses and is not included in this dataset. The remaining 61 individuals' EEG data are included. The participants info file contains information regarding which individuals were included in the final analyses (per artifact rejection criteria detailed in the article).
-
-The stimuli for this study was administered in Presentation; as such, the files are in the formats compatible with this program.
-
-The provided code was used for processing the EEG data. All statistics were run in Jamovi, an R-based open source software; feel free to reach out for the original files if you are interested.
