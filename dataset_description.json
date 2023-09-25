@@ -1,0 +1,17 @@
+{
+    "Name": "EEG/ERP data from a Python Reading Task",
+    "License": "CC0",
+    "Authors": [
+        "Chu-Hsuan Kuo",
+        "Chantel S. Prat"
+    ],
+    "ReferencesAndLinks": [
+        "pending"
+    ],
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "8.1.0",
+    "Acknowledgements": "Thank you to Mark Pettet for assistance with data analysis and the conversion of data to BIDS format.",
+    "Funding": [
+        "pending"
+    ]
+}
