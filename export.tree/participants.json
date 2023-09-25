@@ -1,0 +1,20 @@
+{
+  "participant_id": {
+    "Description": "unique participant identifier"
+  },
+  "original_id": {
+    "Description": "original participant identifier during recording"
+  },
+  "gender": {
+    "Description": "participant's gender"
+  },
+  "age": {
+    "Description": "participant's age"
+  },
+  "python_expertise": {
+    "Description": "participant's Python expertise level"
+  },
+  "data_usability": {
+    "Description": "usability of the participant's EEG data per artifact rejection; bad = exceeded 25% threshold and excluded from analyses"
+  }
+}
