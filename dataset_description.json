@@ -13,5 +13,8 @@
     "Acknowledgements": "Thank you to Mark Pettet for assistance with data analysis and the conversion of data to BIDS format.",
     "Funding": [
         "Office of Naval Research, Cognitive Science of Learning program (N00014-20-1-2393)"
+    ],
+    "EthicsApprovals": [
+        "All experimental procedures were approved by the University of Washington Institutional Review Board"
     ]
 }
